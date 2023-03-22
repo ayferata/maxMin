@@ -6,6 +6,7 @@ public class Main {
       
         int min = list[0];
         int max = list[0];
+        
 
         for (int i : list) {
             if (i < min) {
