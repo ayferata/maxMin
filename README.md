@@ -1,6 +1,7 @@
 # maxMin
 public class Main {
     public static void main(String[] args) {
+    
         int[] list = {56, 34, 1, 8, 101, -2, -33};
       
         int min = list[0];
